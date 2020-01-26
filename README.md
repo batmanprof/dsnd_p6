@@ -6,7 +6,7 @@
 
 ## Blog Post 
 
-https://medium.com/@sakshamvikram/dog-breed-classification-using-transfer-learning-beginners-guide-6e6262533058
+https://medium.com/@batmanprof/dog-breed-classification-with-transfer-learning-c618bbff608
 
 ## Project Overview
 
