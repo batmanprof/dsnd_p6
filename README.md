@@ -4,6 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Blog Post 
+
+https://medium.com/@batmanprof/dog-breed-classification-with-transfer-learning-c618bbff608
 
 ## Project Overview
 
